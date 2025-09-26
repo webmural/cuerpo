@@ -2,7 +2,7 @@
   ::selection { background: sandybrown; color: purple }
   .flora :not(.nativa) { color: inherit }
   .sol.sol { background: gold; color: darkviolet }
-  .luna.luna { background: sandybrown; color: purple }
+  .luna.luna { background: purple; color: plum }
   .jugo.jugo { background: darkviolet; color: gold }
   .metal.metal { background: silver; color: purple }
 }
